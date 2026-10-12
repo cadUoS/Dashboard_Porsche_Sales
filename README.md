@@ -6,7 +6,7 @@ O projeto transforma uma base de vendas em uma experiência visual interativa, p
 
 ## 🌐 Acesse o projeto
 
-- **Dashboard publicada:** [Acesse a Porsche Sales Intelligence](COLE_AQUI_O_LINK_DO_GITHUB_PAGES)
+- **Dashboard publicada:** [Acesse a Porsche Sales Intelligence]((https://caduos.github.io/Dashboard_Porsche_Sales/))
 - **Repositório:** [Porsche Sales Intelligence no GitHub](COLE_AQUI_O_LINK_DO_REPOSITORIO)
 
 ## 📊 Visão geral
