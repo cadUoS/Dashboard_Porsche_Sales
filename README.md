@@ -6,8 +6,8 @@ O projeto transforma uma base de vendas em uma experiência visual interativa, p
 
 ## 🌐 Acesse o projeto
 
-- **Dashboard publicada:** [Acesse a Porsche Sales Intelligence]((https://caduos.github.io/Dashboard_Porsche_Sales/))
-- **Repositório:** [Porsche Sales Intelligence no GitHub](COLE_AQUI_O_LINK_DO_REPOSITORIO)
+- **Dashboard publicada:** [Acesse a Porsche Sales Intelligence](https://caduos.github.io/Dashboard_Porsche_Sales/)
+- **Repositório:** [Porsche Sales Intelligence no GitHub](https://github.com/cadUoS/Dashboard_Porsche_Sales)
 
 ## 📊 Visão geral
 
@@ -157,7 +157,7 @@ O desenvolvimento deste projeto permitiu praticar conceitos de:
 
 Projeto desenvolvido como parte da formação **Santander Excel 2026**, na [DIO](https://www.dio.me/).
 
-[GitHub](https://github.com/SEU-USUARIO) · [LinkedIn](COLE_AQUI_O_LINK_DO_SEU_LINKEDIN)
+[GitHub](https://github.com/cadUoS) · [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-de-oliveira-da-silva-11b682268/?isSelfProfile=true)
 
 ---
 
